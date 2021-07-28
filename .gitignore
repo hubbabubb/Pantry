@@ -102,7 +102,7 @@ logs
 **/*.back.*
 
 src/frontend/node_modules
-/src/frontend/bower_components
+src/frontend/bower_components
 
 *.sublime*
 
