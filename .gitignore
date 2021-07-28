@@ -101,8 +101,9 @@ logs
 **/*.backup.*
 **/*.back.*
 
-src/frontend/node_modules
-src/frontend/bower_components
+src/frontend/node_modules/*
+src/frontend/bower_components/*
+*node_modules*
 
 *.sublime*
 
